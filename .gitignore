@@ -34,3 +34,11 @@ vignettes/*.pdf
 
 # Data files
 /data/
+Data\ Dictionary.pdf
+SPRINT_Protocol_Current.pdf
+SPRINT_Reference.pdf
+codebook.xlsx
+sprint_pop.zip
+sprint_protocol.pdf
+
+*.swp

@@ -1,0 +1,98 @@
+ntwkOrder,order,siteName,siteCity,siteState,siteNetwork,stateStr,siteVA,siteKidney,siteHeart,siteGeritaric
+1,1,Cleveland Clinic Foundation ,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+2,2,Louis Stokes Cleveland VA Medical Center ,"Cleveland, OH",OH,OHIO,Ohio,1,0,0,0
+3,3,MetroHealth Medical Center,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+4,4,North East Ohio Neighborhood Health Center,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+5,5,University Hospital Case Medical Center ,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+6,6,"The Ohio State University Medical Center, Division of Nephrology and Hypertension","Columbus, OH",OH,OHIO,Ohio,0,0,0,0
+7,7,"The Ohio State University Medical Center, Division of Endocrine, Diabetes, and Metabolism","Columbus, OH",OH,OHIO,Ohio,0,0,0,0
+8,8,Univeristy Hospitals Landerbook Health Center,"Mayfield Height, OH",OH,OHIO,Ohio,0,0,0,0
+9,9,University Hospitals Glenridge Office Park,"North Royalton, OH",OH,OHIO,Ohio,0,0,0,0
+10,10,University Hospitals Suburban Health,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+11,11,University Hospitals Otis Moss Jr. Health Center,"Cleveland, OH",OH,OHIO,Ohio,0,0,0,0
+12,12,SUNY Downstate Medical Center,"Brooklyn, NY",NY,OHIO,New York,0,0,0,0
+13,13,University of Pennsylvania ,"Philadelphia, PA",PA,OHIO,Pennsylvania,0,0,0,0
+14,14,Temple University ,"Philadelphia, PA",PA,OHIO,Pennsylvania,0,0,0,0
+15,15,Tulane University,"New Orleans, LA",LA,OHIO,Louisiana,0,0,0,0
+16,16,Ochsner Clinic Foundation ,"New Orleans, LA",LA,OHIO,Louisiana,0,0,0,0
+1,17,Georgia Regents University,"Augusta, GA",GA,SOUTHEAST,Georgia,0,0,0,0
+2,18,Carolinas Medical Center,"Charlotte, NC",NC,SOUTHEAST,North Carolina,0,0,0,0
+3,19,University of South Carolina,"Columbia, SC",SC,SOUTHEAST,South Carolina,0,0,0,0
+4,20,Duke University,"Durham, NC",NC,SOUTHEAST,North Carolina,0,0,0,0
+5,21,East Carolina University,"Greenville, NC",NC,SOUTHEAST,North Carolina,0,0,0,0
+6,22,University of Miami,"Miami, FL",FL,SOUTHEAST,Florida,0,0,0,0
+7,23,Wake Forest Downtown Health Plaza,"Winston Salem, NC",NC,SOUTHEAST,North Carolina,0,0,0,0
+8,24,Wake Forest Geriatrics,"Winston Salem, NC",NC,SOUTHEAST,North Carolina,0,0,0,1
+9,25,Wake Forest Nephrology,"Winston Salem, NC",NC,SOUTHEAST,North Carolina,0,1,0,0
+10,26,University of South Florida,"Tampa, FL",FL,SOUTHEAST,Florida,0,0,0,0
+11,27,Emory University,Atlanta,GA,SOUTHEAST,Georgia,0,0,0,0
+12,28,The Mayo Clinic Jacksonville,"Jacksonville, FL",FL,SOUTHEAST,Florida,0,0,0,0
+13,29,Miami VA,"Miami, FL",FL,SOUTHEAST,Florida,1,0,0,0
+14,30,Pennington Biomedical Research,"Baton Rouge, LA",LA,SOUTHEAST,Louisiana,0,0,0,0
+15,31,Morehouse School of Medicine,"Atlanta, GA",GA,SOUTHEAST,Georgia,0,0,0,0
+1,32,Boston University Medical Center,Boston MA,MA,UTAH,Massachusetts,0,0,0,0
+2,33,Henry Ford Hospital,Detroit MI,MI,UTAH,Michigan,0,0,0,0
+3,34,Intermountain Health Care,Salt Lake City UT,UT,UTAH,Utah,0,0,0,0
+4,35,Stanford University,Palo Alto CA,CA,UTAH,California,0,0,0,0
+5,36,Tufts Medical Center,Boston MA,MA,UTAH,Massachusetts,0,0,0,0
+6,37,"University of Colorado, Denver",Denver CO,CO,UTAH,Colorado,0,0,0,0
+7,38,"University of Illinois, Chicago",Chicago IL,IL,UTAH,Illinois,0,0,0,0
+8,39,University of Pittsburgh,Pittsburgh PA,PA,UTAH,Pennsylvania,0,0,0,0
+9,40,University of Texas Southwestern,Dallas TX,TX,UTAH,Texas,0,0,0,0
+10,41,University of Utah,Salt Lake City UT,UT,UTAH,Utah,0,0,0,0
+11,42,Vanderbilt University,Nashville TN,TN,UTAH,Tennessee,0,0,0,0
+12,43,George Washington University,Washington DC,DC,UTAH,District of Columbia,0,0,0,0
+13,44,"University of California, Davis",Sacramento CA,CA,UTAH,California,0,0,0,0
+14,45,Salt Lake City VA,Salt Lake City UT,UT,UTAH,Utah,1,0,0,0
+15,46,Veterans Medical Research Foundation,San Diego CA,CA,UTAH,California,1,0,0,0
+16,47,UCLA,Los Angeles CA,CA,UTAH,California,0,0,0,0
+17,48,Loyola University Medical Center,Chicago IL,IL,UTAH,Illinois,0,0,0,0
+18,49,"University of Florida,",Gainesville FL,FL,UTAH,Florida,0,0,0,0
+19,50,University of Michigan,Ann Arbor MI,MI,UTAH,Michigan,0,0,0,0
+1,51,Athens Internal Medicine,"Athens, AL",AL,UAB,Alabama,0,0,0,0
+2,52,UAB   The Chronic Kidney Disease Clinic,"Birmingham, AL",AL,UAB,Alabama,0,1,0,0
+3,53,UAB   Vascular Biology and Hypertension Clinic,"Birmingham, AL",AL,UAB,Alabama,0,0,1,0
+4,54,Nephrology Associates,"Birmingham, AL",AL,UAB,Alabama,0,1,0,0
+5,55,University of Tennessee Health Science Center,"Memphis, TN",TN,UAB,Tennessee,0,0,0,0
+6,56,Punzi Medical Center and Trinity Hypertension Research,"Carrollton, TX",TX,UAB,Texas,0,0,1,0
+7,57,Family Care Practice,"Fajardo, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+8,58,Private Practice,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+9,59,Altamira Family Practice and Research Institute Center,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+10,60,Centro Clinico San Patricio,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+11,61,Miguel Sosa-Padilla,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+12,62,Altamira Family Practice,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+13,63,Centro Clinico San Patricio,"San Juan, Puerto Rico",PR,UAB,Puerto Rico,0,0,0,0
+14,64,University of Massachusetts,"Worchester, MA",MA,UAB,Massachusetts,0,0,0,0
+15,65,Rutgers Robert Wood Johnson Medical School,"New Brunswick, NJ",NJ,UAB,New Jersey,0,0,0,0
+16,66,University of Mississippi Medical Center CRP,"Jackson, MS",MS,UAB,Mississippi,0,0,0,0
+17,67,Nashville Medical Group,"Nashville, TN",TN,UAB,Tennessee,0,0,0,0
+18,68,"New York Irving Pavilion, Columbia University","New York, NY",NY,UAB,New York,0,0,0,0
+19,69,"Irving Pavilion Research Unit, CTSA Satellite, Columbia University","New York, NY",NY,UAB,New York,0,0,0,0
+20,70,"Clinical Cardiovascular Research Lab for the Elderly, Columbia University","New York, NY",NY,UAB,New York,0,0,1,1
+21,71,Medical University of South Carolina Nephrology,"Charleston, SC",SC,UAB,South Carolina,0,1,0,0
+22,72,Great Lakes Medical Research,"Westfield, NY",NY,UAB,New York,0,0,0,0
+1,73,New Mexico VA Healthcare System,"Albuquerque, NM",NM,VA,New Mexico,1,0,0,0
+2,74,Atlanta VAMC,Atlanta GA,CA,VA,California,1,0,0,0
+3,75,VA Boston Healthcare System,"Jamaica Plain, MA",MA,VA,Massachusetts,1,0,0,0
+4,76,James J. Peters VAMC,"Bronx, NY",NY,VA,New York,1,0,0,0
+5,77,Ralph H. Johnson VAMC,"Charleston, SC",SC,VA,South Carolina,1,0,0,0
+6,78,Dayton VAMC,"Dayton, OH",OH,VA,Ohio,1,0,0,0
+7,79,John D. Dingell VAMC,"Detroit, MI",MI,VA,Michigan,1,0,0,0
+8,80,VA New Jersey Healthcare System,"East Orange, NJ",NJ,VA,New Jersey,1,0,0,0
+9,81,Malcom Randall VAMC,"Gainesville, FL",FL,VA,Florida,1,0,0,0
+10,82,Michael E. DeBakey VAMC,"Houston, TX",TX,VA,Texas,1,0,0,0
+11,83,Montgomery VAMC,"Jackson, MS",MS,VA,Mississippi,1,0,0,0
+12,84,Kansas City VAMC,"Kansas City, MO",MO,VA,Montana,1,0,0,0
+13,85,John L. McClellan Memorial Veterans Hospital,"Little Rock, AR",AR,VA,Arkansas,1,0,0,0
+14,86,Memphis VAMC,"Memphis, TN",TN,VA,Tennessee,1,0,0,0
+15,87,Clement J. Zablocki VAMC,"Milwaukee, WI",WI,VA,Wisconsin,1,0,0,0
+16,88,VAMC/TVHS GRECC,"Nashville, TN",TN,VA,Tennessee,1,0,0,0
+17,89,VA New York Harbor Healthcare System,"New York, NY",NY,VA,New York,1,0,0,0
+18,90,Northport VAMC,"Northport, NY",NY,VA,New York,1,0,0,0
+19,91,Phoenix VA Healthcare System,"Phoenix, AZ",AZ,VA,Arizona,1,0,0,0
+20,92,Portland VAMC,"Portland, OR",OR,VA,Oregon,1,0,0,0
+21,93,St. Louis VA Healthcare System,"St. Louis, MO",MO,VA,Montana,1,0,0,0
+22,94,Washington D.C. VAMC,"Washington, D.C.",DC,VA,District of Columbia,1,0,0,0
+23,95,West Los Angeles VA Healthcare Center /Greater Los Angeles Healthcare System,"Los Angeles, CA",CA,VA,California,1,0,0,0
+24,96,Minneapolis VAMC,"Minneapolis, MN",MN,VA,Minnesota,1,0,0,0
+25,97,South Texas Veterans Healthcare System,"San Antonio, TX",TX,VA,Texas,1,0,0,0

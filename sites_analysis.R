@@ -1,5 +1,10 @@
 library(survival)
+library(dplyr)
 
+basedir <- "~/phd/sfg/nejm-sprint"
+setwd(basedir)
+
+figdir <- file.path(basedir, "figs")
 setwd("~/phd/sfg/nejm-sprint")
 
 baseline <- read.csv("data/baseline.csv")
@@ -11,4 +16,4 @@ merged.data <- merge.data.frame(merged.data, outcomes, by="MASKID")
 
 survival.outcome <- Surv(time=merged.data$SAE_DAYS, event=merged.data$SAE_EVNT)
 cox.fit <- coxph(survival.outcome~merged.data$INTENSIVE * factor(merged.data$NEWSITEID))
-summary(cox.fit)
+print(summary(cox.fit))

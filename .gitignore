@@ -42,3 +42,5 @@ sprint_pop.zip
 sprint_protocol.pdf
 
 *.swp
+*.svg
+*.Rdata

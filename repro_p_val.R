@@ -1,0 +1,7 @@
+setwd("~/phd/sfg/nejm-sprint")
+baseline <- read.csv("data/baseline.csv")
+outcomes <- read.csv("data/outcomes.csv")
+merged.data <- merge.data.frame(baseline, outcomes, by="MASKID")
+outcome <- Surv(merged.data$T_PRIMARY, merged.data$EVENT_PRIMARY)
+alternative.model <- coxph(outcome ~ INTENSIVE + strata(NEWSITEID), data=merged.data)
+print(alternative.model)

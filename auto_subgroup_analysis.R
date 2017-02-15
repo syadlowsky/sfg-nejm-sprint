@@ -71,5 +71,12 @@ lm.test.model <- lm(outcome[-train.ids] ~ INTENSIVE*g.test.xgb, data=X.test)
 summary(lm.test.model)
 library("survival")
 cox.test.model <- coxph(Surv(X.test$T_PRIMARY, outcome[-train.ids]) ~ INTENSIVE*g.test.xgb, data=X.test)
-summary(cox.test.model)            
+summary(cox.test.model)
+
+# Make plot of learned grouping function g
+bmi.range <- range(merged.data$BMI, na.rm = TRUE)
+num.grid.points <- 100000
+grid.points <- seq(from = bmi.range[1], to = bmi.range[2], length.out = num.grid.points)
+g.grid <- predict(xgb.model, as.matrix(grid.points)) >= 0.5
+plot(grid.points, g.grid)
 

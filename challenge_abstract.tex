@@ -26,12 +26,9 @@
 
 \section{Covariate interactions}
 \subsection{Methods}
-We considered pairwise interactions of race, gender, BMI, smoking status, and
+We were interested in studying any interactions between informationWe considered pairwise interactions of race, gender, BMI, smoking status, and
 medications (aspirin and statins) with the intensive versus standard
-treatment. We first considered the incidence of any condition in the
-primary endpoint (TODO add exact vars included) within 5 years as our outcome,
-and considered a Cox proportional hazards regression model. We also considered
-interactions between the baseline covariates listed above and the treatment
+treatment. Interactions between the baseline covariates listed above and the treatment
 against severe adverse outcomes.
 
 Further, we investigated the possibility that subgroups defined via specific
@@ -74,41 +71,30 @@ multivariate proportional hazards Cox model to these data, and looked for
 significance at the $P = 0.1$ and $P=0.05$ levels.
 
 \subsection{Results}
-TODO: convert to table
-The following number of individuals were found to be in each of the networks
-identified. NA is used as a placeholder for all sites that were not identified.
-
-\begin{center}
-\begin{tabular}{ |c|l|r| } 
- \hline
- &      \textbf{NET}&   \textbf{n} \\
- \hline
-1&       NA&5285 \\
- \hline
-2&     OHIO& 844 \\
- \hline
-3&SOUTHEAST& 773 \\
- \hline
-4      &UAB& 489 \\
- \hline
-5      & VA&1970 \\
- \hline
-\end{tabular}
-\end{center}
-
+NA is used as a placeholder for all sites that were not identified $(n = 5,285)$. $844$ people were from sites identified in the Ohio network, 733 in the Southeast, 489 in UAB, and 1970 in the VA.
 
 Among these sites, the interaction between the intensive treatment and the
-Southeast network was found to be significant at $P = 0.068$, with a negative
-interaction. That is, individuals in the Southeast network were less likely to
-have a severe adverse event mediated by the intensive versus standard treatment
-than the average individual in the study.
+Southeast network was found to be significant at $P = 0.068$ ($Z =
+-1.823$). That is, individuals in the Southeast network were less
+likely to have a severe adverse event mediated by the intensive versus
+standard treatment than the average individual in the study.
 
 \subsection{Conclusions}
 The significance for the network level interactions found was inconclusive,
 however it warrants further investigation. As the study was not powered to
 consider these geographic interactions with respect to adverse events, the data
 derived from the SPRINT study provide an exploratory look at considering these
-interactions. The first step would be analysis with the un-anonymized site
+interactions.
+
+As the baseline covariates did not have significant interactions with
+the treatment for adverse events, the potential for demographic
+differences between populations to explain the differences in the
+effect of intensive treatment on adverse outcomes. Potential
+explanations include variation in the class of secondary hypertensive
+medications prescribed among different networks, and factors
+influencing regional noncompliance.
+
+The first step would be analysis with the un-anonymized site
 information, followed by a RCT powered to understand how demographic and
 geographic factors mediate the adverse effects of intensive blood pressure
 management.
